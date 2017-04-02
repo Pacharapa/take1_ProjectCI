@@ -8,15 +8,15 @@
 	<title></title>
 </head>
 <body>
-	<br>
+<br>
 	<div class="row">
 		 <div class="col-md-4"></div>
 		 <div class="col-md-4">
 		 	<div class="panel panel-success">
 			  <div class="panel-heading">
 			  
-			  <h3>ลบข้อมูลสำเร็จ</h3>
-			  <a href="../../showmembercontroller"><button type="submit" class="btn btn-warning">ย้อนกลับ</button></a>
+			  <h3>สมัครสมาชิกสำเร็จ</h3>
+			  <a href="../showmembercontroller"><button type="submit" class="btn btn-warning">ย้อนกลับ</button></a>
 
 			  </div>
 			</div>
@@ -24,5 +24,6 @@
 		 <div class="col-md-4"></div>
 	</div>
 
+	
 </body>
 </html>

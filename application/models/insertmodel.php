@@ -14,9 +14,6 @@ class Insertmodel extends CI_Model {
 
 	}
 
-	public function 
-
-
 }
 
 /* End of file insertmodel.php */
