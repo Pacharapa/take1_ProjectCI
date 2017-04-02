@@ -25,7 +25,17 @@ class Insertcontroller extends CI_Controller {
 					); 
 		$this->insertmodel->dbregiter($regiter);
 	}
-	 
+	
+	public function updatdb(){
+
+		/*$data = array(
+               'name_surname' => $this->input->post('name'),
+				'password' => $this->input->post('password'),
+				'Email' => $this->input->post('email'),
+				'phone' => $this->input->post('phone')
+            );*/
+
+	}
 
 
 	

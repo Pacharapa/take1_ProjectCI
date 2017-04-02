@@ -1,4 +1,4 @@
-<?php
+ <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Insertmodel extends CI_Model {
@@ -13,6 +13,9 @@ class Insertmodel extends CI_Model {
 		$this->db->insert("member",$register);
 
 	}
+
+	public function 
+
 
 }
 
